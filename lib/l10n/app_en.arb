@@ -1,0 +1,91 @@
+{
+    "language": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+    "newsOfTheDay": "News of the Day",
+    "@newsOfTheDay": {
+      "description": "App content"
+    },
+    "breakingNews": "Breaking News",
+    "@breakingNews": {
+      "description": "App content"
+    },
+    "more": "More",
+    "@more": {
+      "description": "App content"
+    },
+    "home": "Home",
+      "@home": {
+       "description": "App content"
+    },
+    "search": "Search",
+      "@search": {
+       "description": "App content"
+    },
+    "settings": "Settings",
+      "@settings": {
+       "description": "App content"
+    },
+    "discover": "Discover",
+      "@discover": {
+       "description": "App content"
+    },
+    "newsFromAllOverTheWorld": "News from all over the world",
+      "@newsFromAllOverTheWorld": {
+       "description": "App content"
+    },
+    "change": "Change",
+      "@change": {
+       "description": "App content"
+    },
+    "general": "General",
+      "@general": {
+       "description": "App content"
+    },
+    "health": "Health",
+      "@health": {
+       "description": "App content"
+    },
+    "sport": "Sport",
+      "@sport": {
+       "description": "App content"
+    },
+    "science": "Science",
+      "@science": {
+       "description": "App content"
+    },
+    "technology": "Technology",
+      "@technology": {
+       "description": "App content"
+    },
+    "entertainment": "Entertainment",
+      "@entertainment": {
+       "description": "App content"
+    },
+    "business": "Business",
+     "@business": {
+      "description": "App content"
+    },
+    "darkMode": "Dark Mode",
+     "@darkMode": {
+      "description": "App content"
+    },
+    "changeAppLanguage": "Change App Language",
+      "@changeAppLanguage": {
+       "description": "App content"
+    },
+    "continueReading": "Continue Reading",
+     "@continueReading": {
+      "description": "App content"
+    },
+    "getTopNewsForSelectedCountry": "Get top news for selected country",
+     "@getTopNewsForSelectedCountry": {
+      "description": "App content"
+    },
+    "error": "Error happened please check your internet connection.",
+     "@error": {
+      "description": "App content"
+    }
+}
+

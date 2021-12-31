@@ -1,0 +1,25 @@
+{
+    "language": "العربية",
+    "newsOfTheDay": "اخبار اليوم",
+    "breakingNews": "الاخبار العاجلة",
+    "more": "مزيد",
+    "home": "رئيسية",
+    "search": "بحث",
+    "settings": "اعدادات",
+    "discover": "اكتشف",
+    "newsFromAllOverTheWorld": "خبار من جميع انحاء العالم",
+    "change": "تغير",
+    "general": "عامة",
+    "health": "صحة",
+    "sport": "رياضة",
+    "science": "علوم",
+    "technology": "تقنية",
+    "entertainment": "ترفيهية",
+    "business": "اعمال",
+    "darkMode": "الوضع الليلي",
+    "changeAppLanguage": "تغير لغة التطبيق",
+    "continueReading": "متابعة القراءة",
+    "getTopNewsForSelectedCountry": "احصل على اهم الاخبار للدولة المختاره",
+    "error": " خطأ برجاء التحقق من الاتصال بالانترنت "
+
+}
