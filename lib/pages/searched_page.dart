@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/bottom_sheet_screens/sort_by_modal_sheet.dart';
-import 'package:news_app/custom_widget/articles_list.dart';
-import 'package:news_app/custom_widget/loading_articles_list.dart';
-import 'package:news_app/custom_widget/my_textformfeild.dart';
-import 'package:news_app/view_model/search_articles_view_modal.dart';
+import 'package:news_app/bottom_sheet_screens/modal_sheets.dart';
+import 'package:news_app/custom_widget/custom_widget.dart';
+import 'package:news_app/view_model/view_models.dart';
+
 import 'package:provider/provider.dart';
 
 class SearchedPage extends StatefulWidget {

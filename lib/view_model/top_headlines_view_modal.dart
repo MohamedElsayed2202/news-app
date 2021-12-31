@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:news_app/model/news_article.dart';
 import 'package:news_app/services/news_api.dart';
-import 'package:news_app/view_model/news_article_view_model.dart';
+import 'package:news_app/view_model/view_models.dart';
+
 
 class TopHeadLinesViewModal extends ChangeNotifier {
   List<NewsArticleViewModel> _topHeadlines = [];

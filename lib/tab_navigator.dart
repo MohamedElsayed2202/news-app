@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
-import 'package:news_app/pages/categories_page.dart';
-import 'package:news_app/pages/settings_page.dart';
-import 'package:news_app/pages/top_headline_page.dart';
+import 'package:news_app/pages/pages.dart';
+
+
 class TabNavigator extends StatelessWidget {
   final GlobalKey<NavigatorState>? navigatorKey;
   final String tabItem;

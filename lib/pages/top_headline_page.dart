@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/custom_widget/home_waiting_widget.dart';
-import 'package:news_app/custom_widget/homepage_widgets/first_article_stack.dart';
-import 'package:news_app/custom_widget/homepage_widgets/home_page_scroll_list_item.dart';
-import 'package:news_app/pages/article_page.dart';
-import 'package:news_app/pages/see_more_page.dart';
-import 'package:news_app/view_model/top_headlines_view_modal.dart';
-import 'package:news_app/view_model/news_article_view_model.dart';
+import 'package:news_app/custom_widget/custom_widget.dart';
+import 'package:news_app/pages/pages.dart';
+import 'package:news_app/view_model/view_models.dart';
+
 import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 

@@ -1,17 +1,13 @@
 import 'package:country_codes/country_codes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:news_app/pages/news_screens.dart';
-import 'package:news_app/pages/onboarding_page.dart';
-import 'package:news_app/providers/local_provider.dart';
 import 'package:news_app/shared_preferences/my_preferences.dart';
-import 'package:news_app/view_model/categories_articles_view_modal.dart';
-import 'package:news_app/providers/theam_provider.dart';
-import 'package:news_app/view_model/search_articles_view_modal.dart';
-import 'package:news_app/view_model/top_headlines_view_modal.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'l10n/l10n.dart';
+import 'pages/pages.dart';
+import 'providers/providers.dart';
+import 'view_model/view_models.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();

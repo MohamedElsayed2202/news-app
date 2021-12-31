@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/view_model/search_articles_view_modal.dart';
+import 'package:news_app/view_model/view_models.dart';
 import 'package:provider/provider.dart';
 
 class SortByModalSheet extends StatelessWidget {

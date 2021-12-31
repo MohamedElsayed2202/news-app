@@ -2,15 +2,14 @@
 
 import 'package:country_codes/country_codes.dart';
 import 'package:flutter/material.dart';
-import 'package:news_app/bottom_sheet_screens/change_country_modal_sheet.dart';
-import 'package:news_app/custom_widget/articles_list.dart';
-import 'package:news_app/custom_widget/loading_articles_list.dart';
-import 'package:news_app/custom_widget/my_tabbar.dart';
-import 'package:news_app/custom_widget/my_textformfeild.dart';
-import 'package:news_app/pages/searched_page.dart';
-import 'package:news_app/view_model/categories_articles_view_modal.dart';
+import 'package:news_app/bottom_sheet_screens/modal_sheets.dart';
+import 'package:news_app/custom_widget/custom_widget.dart';
+import 'package:news_app/view_model/view_models.dart';
+
 import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+
+import 'pages.dart';
 
 class CategoriesPage extends StatefulWidget {
   const CategoriesPage({Key? key}) : super(key: key);

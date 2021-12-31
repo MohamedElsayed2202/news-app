@@ -1,7 +1,7 @@
 import 'package:country_codes/country_codes.dart';
 import 'package:flutter/material.dart';
-import 'package:news_app/providers/local_provider.dart';
-import 'package:news_app/providers/theam_provider.dart';
+import 'package:news_app/providers/providers.dart';
+
 import 'package:news_app/shared_preferences/my_preferences.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';

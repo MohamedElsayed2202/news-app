@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/view_model/news_article_view_model.dart';
+import 'package:news_app/view_model/view_models.dart';
+
 
 class ArticlePage extends StatelessWidget {
   const ArticlePage({Key? key, required this.article}) : super(key: key);

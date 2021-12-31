@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/custom_widget/articles_list.dart';
-import 'package:news_app/custom_widget/loading_articles_list.dart';
-import 'package:news_app/providers/theam_provider.dart';
-import 'package:news_app/view_model/top_headlines_view_modal.dart';
-import 'package:news_app/view_model/news_article_view_model.dart';
+import 'package:news_app/custom_widget/custom_widget.dart';
+import 'package:news_app/providers/providers.dart';
+import 'package:news_app/view_model/view_models.dart';
+
 import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
